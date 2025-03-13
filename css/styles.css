@@ -61,3 +61,27 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.title {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-style: italic;
+	color: #dbdad7;
+	margin-left: 550px;
+	padding-bottom: 50px;
+	font-size: 50px;
+
+}
+
+.spacing {
+	margin-left: 500px;
+	position: relative;
+	top: 20px;
+}
+
+.name {
+	margin-left: -150px;
+	position: relative;
+	top: 90px;
+	font-size: 50px;
+	color: #dbdad7
+}

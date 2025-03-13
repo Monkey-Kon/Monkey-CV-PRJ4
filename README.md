@@ -6,8 +6,6 @@ A template to create a CV while learning HTML and CSS
 
 Click on https://monkey-kon.github.io/Monkey-CV-PRJ4/ for the website Jeroen de Groot made
 
- **Please replace the address above by your CV's own address, since this is a link to the original template!**
-
 ## Create your own CV
 
 Create your own GitHub repository based on this template by clicking on
